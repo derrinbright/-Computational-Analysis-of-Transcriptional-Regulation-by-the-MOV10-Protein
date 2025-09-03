@@ -86,20 +86,24 @@ MOV10 interacts with FMRP and the microRNA pathway, acting as both a facilitator
 
 ### Visualizations  
 <img src="images/EXPRESSION%20HEATMAP%20OF%20SIGNIFICANT%20GENES.jpg" width="400"/>  
+
 *Heatmap of Significant Genes*  
 
-<img src="images/OVERLAP%20OF%20DEGs%20using%20VennPlot.jpg" width="400"/>  
-*Overlap of DEGs (Venn Diagram)*  
-
-<img src="images/UpSetR%20Plot.jpg" width="400"/>  
-*Exclusive and Shared DEG Sets (UpSetR Plot)*  
-
 <img src="images/MOV10%20KNOCKDOWN%20VS%20CONTROL.jpg" width="400"/>  
+
 *Volcano Plot: MOV10 Knockdown vs Control*  
 
 <img src="images/MOV10%20OVEREXPRESSION%20vs%20CONTROL.jpg" width="400"/>  
+
 *Volcano Plot: MOV10 Overexpression vs Control*  
 
+<img src="images/UpSetR%20Plot.jpg" width="400"/>  
+
+<img src="images/OVERLAP%20OF%20DEGs%20using%20VennPlot.jpg" width="400"/>  
+
+*Overlap of DEGs (Venn Diagram)*  
+
+*Exclusive and Shared DEG Sets (UpSetR Plot)*  
 ---
 
 ## 6. Conclusion  
